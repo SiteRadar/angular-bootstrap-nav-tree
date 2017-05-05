@@ -1,6 +1,6 @@
 {
   "name": "sr-angular-bootstrap-nav-tree",
-  "version": "2017.05.05",
+  "version": "0.2.1",
   "dependencies": {},
   "main": "main.js",
   "devDependencies": {
